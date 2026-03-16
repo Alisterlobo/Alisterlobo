@@ -1,6 +1,6 @@
 # Hi 👋 I'm Alister Lobo
 
-💻 MERN Stack Developer  
+💻 Software Developer  
 🎓 MCA Graduate  
 🚀 Passionate about building web applications
 
