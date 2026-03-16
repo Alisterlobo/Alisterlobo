@@ -26,8 +26,8 @@
 - Designed a responsive chat UI and handled API requests.
 - Deployed the project on Vercel.
 
-## Tech Stack:  React, Vite, Hugging Face API, Tailwind CSS 
-## Live Demo: (https://react-ai-chatbot-evej-ten.vercel.app/)
+Tech Stack:  React, Vite, Hugging Face API, Tailwind CSS 
+Live Demo: (https://react-ai-chatbot-evej-ten.vercel.app/)
 
 --------------------------------------------
 ## 📫 Connect with Me
